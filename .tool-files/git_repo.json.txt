@@ -801,3 +801,5 @@
 |USBInjectAll.kext|buildScheme "USBInjectAll"
 |USBInjectAll.kext|prebuiltDaily|@0|debug "https://github.com/rusty-bits/dailyDEBUG"
 |USBInjectAll.kext|prebuiltDaily|@0|release "https://github.com/rusty-bits/dailyRELEASE"
+|AMDRyzenCPUPowerManagement.kext|latestSource "https://github.com/trulyspinach/SMCAMDProcessor"
+|SMCAMDProcessor.kext|latestSource "https://github.com/trulyspinach/SMCAMDProcessor"
