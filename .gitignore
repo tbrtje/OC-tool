@@ -8,6 +8,7 @@ update.log
 .tool-files/k.e
 
 INPUT/*
+!INPUT/config.plist
 !INPUT/readme.txt
 
 Docs/diff_Sample.txt
@@ -18,3 +19,6 @@ resources/*
 
 extras/*
 !extras/README.txt
+!extras/*.kext
+!extras/*.aml
+!extras/Resources/*
