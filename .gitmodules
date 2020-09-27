@@ -1,0 +1,4 @@
+[submodule "Old"]
+	path = OpenCore
+	url = git@github.com:tbrtje/OpenCore.git
+	branch = experimental-big-sur
